@@ -272,14 +272,14 @@ input, textarea {
 	background-size: cover;
 }
 .bg-couple {
-	background: url(../images/background/couple-back.jpg) no-repeat center center;
+	background: url(../images/background/couple-back.JPG) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .bg-home {
-	background: url(../images/background/home-back.jpg) no-repeat center center;
+	background: url(../images/background/home-back.JPG) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
